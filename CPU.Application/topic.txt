@@ -1,0 +1,11 @@
+Model of CPU and Assembler on C#. Understand CPU and DIE.
+
+low-level-abstraction.
+Components of CPU at the low-level Assembler
+Points are the same, no matter that server or smart phone. Rule are the same!
+Processor is a simply component that execute commands in queue.
+If say it not clear -> our program is an array of commands 
+
+RAM.SSD.HDD. Levels of CPU
+CPU has a little bit of memory. There are three levels of cache L1 -> L2 -> L3.
+Registers can be use how ur soul want. 
